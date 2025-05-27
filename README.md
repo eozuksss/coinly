@@ -2,6 +2,7 @@
 
 ### Realizado por Tiago Monteiro, Francisco Pires, André Medina e Samuel Carreira
 
+
 Este projeto é uma aplicação em Python com interface gráfica (Tkinter) que gere receitas e despesas, consegues importar e exportar dados em CSV/JSON e visualizar gráficos em tempo real.
 
 # Funcionalidades
