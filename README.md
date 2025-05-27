@@ -16,6 +16,3 @@ Este projeto é uma aplicação em Python com interface gráfica (Tkinter) que g
 - Matplotlib
 - Pytest
 
-## 🚀 Como executar
-1. Clone o repositório:
-
