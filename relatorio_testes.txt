@@ -1,0 +1,16 @@
+--RELATÓRIO DE TESTES - COINLY--
+
+Biblioteca de testes: Pytest
+
+Testes realizados:
+✔ Inserção de receitas e despesas
+✔ Edição de receitas e despesas
+✔ Remoção de receitas e despesas
+✔ Exportação de dados (.csv e .json)
+✔ Importação de dados (.csv e .json)
+
+Resultado:
+- Todos os testes passaram com sucesso 
+- O banco de dados foi corretamente atualizado em todas as operações
+
+
